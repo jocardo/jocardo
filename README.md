@@ -5,8 +5,8 @@ Com mais de 4 anos de experiência, tive a oportunidade de trabalhar em vários 
 
 # 🚀 Expertise
 
-Meu foco principal é o desenvolvimento de back-end, onde me especializo na criação de aplicativos da Web. Tenho amplo conhecimento de vb.net, aps.net e SQL Server.
-Gosto de trabalhar no back-end porque ele me permite usar minha com habilidades de solução de problemas para proporcionar experiências excepcionais ao usuário.
+Meu foco principal é o desenvolvimento de back-end, onde me especializo na criação de aplicativos da Web. Tenho amplo conhecimento de vb.net, C#, aps.net e SQL Server.
+Gosto de trabalhar no back-end porque ele me permite usar minha habilidade de solução de problemas para proporcionar uma ótima experiência ao usuário.
 
 # 💻 Tech Stack
 
