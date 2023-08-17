@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-Sou José Ricardo, desenvolvedor back-end de software e entusiasta da tecnologia. Atualmente, trabalho como consultor junior na Inetum. <br>
+Sou José Ricardo, desenvolvedor back-end de software e entusiasta da tecnologia. Atualmente, trabalho como consultor junior na Inetum.
 Com mais de 4 anos de experiência, tive a oportunidade de trabalhar em vários projetos interessantes e explorar diferentes tecnologias.
 
 # 🚀 Expertise
